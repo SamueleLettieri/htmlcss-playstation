@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+ 
+ .ms_bb{
+    background-color: black;
+ }
+ 
+ .ms_flex-end{
+    display: flex;
+    justify-content: flex-end;
+ }
+ 
+ .ms_tw{
+    color: white;
+ }
+ 
+ .ms_bott{
+    background-color: black;
+    padding: 5px 15px 10px 15px; 
+    border-radius: 20px;
+ }
+ 
+ a{
+    text-decoration: none;
+ }
+ 
+ 
+ .ms_tb{
+    color: black
+ }
+
+ .ms_logo-sony{
+     width: 100px;
+ }
