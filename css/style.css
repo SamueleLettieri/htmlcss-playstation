@@ -89,13 +89,15 @@ main{
    background-repeat: no-repeat;
 }
 
+/* section 5 */
+.ms_bac-b{
+   background-color: rgb(58, 58, 58);
+}
+
+/* section 6 */
 
 
-
-
-
-
-
+/* section 7 */
 
 @media (max-width: 768px){
    .ms_w-c100{
