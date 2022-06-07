@@ -102,11 +102,11 @@ main{
    background-color: rgb(138, 138, 138);
 }
 
-.ms_bac-w{
+.ms_bac-lw{
    background-color: rgb(197, 197, 197);
 }
 
-.ms_tb{
+.ms_tblu{
    color: rgb(0, 68, 255)
 }
 
@@ -118,7 +118,25 @@ main{
    background-color: rgb(0, 0, 116);
 }
 
+.ms_bac-w{
+   background-color: rgb(255, 255, 255);
+}
+
 /* section 10 */
+
+
+/* footer */
+.ms_img-global{
+   width: 18px;
+}
+
+li{
+   list-style: none;
+}
+
+.ms_img-sie{
+   width: 110px;
+}
 
 
 
