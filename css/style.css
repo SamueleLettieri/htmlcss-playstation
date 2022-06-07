@@ -1,37 +1,72 @@
 *{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
- }
- 
- .ms_bb{
-    background-color: black;
- }
- 
- .ms_flex-end{
-    display: flex;
-    justify-content: flex-end;
- }
- 
- .ms_tw{
-    color: white;
- }
- 
- .ms_bott{
-    background-color: black;
-    padding: 5px 15px 10px 15px; 
-    border-radius: 20px;
- }
- 
- a{
-    text-decoration: none;
- }
- 
- 
- .ms_tb{
-    color: black
- }
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
 
- .ms_logo-sony{
-     width: 100px;
- }
+.ms_bb{
+   background-color: black;
+}
+
+.ms_flex-end{
+   display: flex;
+   justify-content: flex-end;
+}
+
+.ms_tw{
+   color: white;
+}
+
+.ms_bott{
+   padding: 5px 15px 10px 15px; 
+   border-radius: 20px;
+}
+
+a{
+   text-decoration: none;
+}
+
+.ms_tb{
+   color: black
+}
+
+.ms_logo-sony{
+   width: 100px;
+}
+
+/* main */
+/* section 1 */
+.ms_bac-returnal{
+   background-image: url(../img/jumbo-bg.png);
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+}
+
+.ms_img-v{
+   width: 100%;
+}
+
+.ms_pad-300{
+   padding-top: 100px;
+}
+
+.ms_bo{
+   background-color: orangered;
+}
+
+
+/* section 2 */
+
+
+
+
+/* section 3 */
+.ms_bblu{
+   background-color: rgb(0, 89, 255);
+}
+
+.ms_al-cen{
+   align-items: center;
+}
+
