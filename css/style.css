@@ -22,6 +22,37 @@
    border-radius: 20px;
 }
 
+.ms_stat{
+   position: static;
+}
+
+.ms_110vw{
+   width: 100vw;
+   margin-top: 0!important;
+   border-top: 0!important;
+   border-radius: 0;
+}
+
+.ms_b-sf:hover{
+   box-shadow:  5px  5px 5px #dedede,
+   -5px -5px 5px #dedede,
+    5px -5px 5px #dedede,
+   -5px  5px 5px #dedede;
+}
+
+.ms_j-c{
+   justify-content: center;
+}
+
+.ms_punto{
+   display: inline-block;
+   margin-right: 5px;
+   width: 5px;
+   height: 5px;
+   background-color: rgb(0, 35, 150);
+   border-radius: 50%;
+}
+
 a{
    text-decoration: none;
 }
@@ -60,11 +91,46 @@ main{
    background-color: orangered;
 }
 
+.ms_br2{
+   padding: 6px 0px 12px 0px; 
+   border-radius: 25px;
+}
+
+.ms_bott:hover{
+   transform: scale(0.9);
+}
+
+.ms-b-o{
+   border: 2px solid orangered;
+}
+
+.ms_b-b{
+   border: 2px solid rgb(0, 89, 255);
+}
+
+.ms_b-g{
+   border: 2px solid rgb(197, 197, 197);
+}
+
+.ms_b-w{
+   border: 2px solid rgb(255, 255, 255);
+}
 
 /* section 2 */
 
+.ms_pos-rel{
+   position: relative;
+   transition: 2s;
+}
 
+.ms_pos-rel:hover{
+   bottom: 20px;
+}
 
+.ms_bor{
+   border: 2px solid rgb(23, 19, 255);
+   border-radius: 20px;
+}
 
 /* section 3 */
 .ms_bblu{
@@ -79,6 +145,18 @@ main{
    width: calc(100% / 5);
 }
 
+.ms_bordb{
+   border-bottom: 2px solid blue;
+}
+
+.ms_opac{
+   opacity: 0.3;
+} 
+
+.ms_hov-opac:hover{
+   opacity: 1;
+   border-bottom: 2px solid blue;
+}
 
 
 /* section 4 */
